@@ -6,7 +6,7 @@ name: TallerCICD
 on:
 #identificar cuando es que quiere que se ejecuten las acciones
   push:
-    branches: [ "feature/UnitestDemo" ]
+    branches: [ "Feature/UnitestDemo" ]
   pull_request:
     branches: [ "main" ]
 
