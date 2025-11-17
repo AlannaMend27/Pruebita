@@ -1,5 +1,6 @@
 # test_inventario_productos.py
 #Instalr pytest y unittest
+#comentario prueba 
 import unittest
 import sys
 from InventarioProductos import InventarioProductos  
